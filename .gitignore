@@ -1,0 +1,23 @@
+# compiled binaries
+*.o
+*.out
+*.elf
+*.bin
+
+# build folders
+build/
+cmake-build-*/
+CMakeFiles/
+
+# logs
+*.log
+
+# editor files
+.vscode/
+.idea/
+
+# Linux junk
+*.swp
+*.swo
+.DS_Store
+
